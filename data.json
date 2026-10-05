@@ -7,9 +7,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 500,
-    "quantity": 10,
+    "quantity": 18,
     "returned_quantity": 0,
-    "net_revenue": 5000
+    "net_revenue": 9000
   },
   {
     "sale_id": 2,
@@ -19,9 +19,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 1200,
-    "quantity": 3,
+    "quantity": 11,
     "returned_quantity": 0,
-    "net_revenue": 3600
+    "net_revenue": 13200
   },
   {
     "sale_id": 3,
@@ -31,9 +31,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 650,
-    "quantity": 14,
+    "quantity": 22,
     "returned_quantity": 0,
-    "net_revenue": 9100
+    "net_revenue": 14300
   },
   {
     "sale_id": 4,
@@ -44,8 +44,8 @@
     "channel": "實體門市",
     "unit_price": 1800,
     "quantity": 7,
-    "returned_quantity": 0,
-    "net_revenue": 12600
+    "returned_quantity": 1,
+    "net_revenue": 10800
   },
   {
     "sale_id": 5,
@@ -79,9 +79,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 900,
-    "quantity": 4,
+    "quantity": 7,
     "returned_quantity": 0,
-    "net_revenue": 3600
+    "net_revenue": 6300
   },
   {
     "sale_id": 8,
@@ -91,9 +91,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 300,
-    "quantity": 15,
+    "quantity": 18,
     "returned_quantity": 0,
-    "net_revenue": 4500
+    "net_revenue": 5400
   },
   {
     "sale_id": 9,
@@ -103,9 +103,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 700,
-    "quantity": 8,
+    "quantity": 11,
     "returned_quantity": 1,
-    "net_revenue": 4900
+    "net_revenue": 7000
   },
   {
     "sale_id": 10,
@@ -115,9 +115,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 800,
-    "quantity": 19,
+    "quantity": 22,
     "returned_quantity": 0,
-    "net_revenue": 15200
+    "net_revenue": 17600
   },
   {
     "sale_id": 11,
@@ -127,9 +127,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 500,
-    "quantity": 17,
+    "quantity": 25,
     "returned_quantity": 0,
-    "net_revenue": 8500
+    "net_revenue": 12500
   },
   {
     "sale_id": 12,
@@ -139,9 +139,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 1200,
-    "quantity": 10,
+    "quantity": 18,
     "returned_quantity": 0,
-    "net_revenue": 12000
+    "net_revenue": 21600
   },
   {
     "sale_id": 13,
@@ -151,9 +151,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 650,
-    "quantity": 3,
+    "quantity": 11,
     "returned_quantity": 0,
-    "net_revenue": 1950
+    "net_revenue": 7150
   },
   {
     "sale_id": 14,
@@ -164,8 +164,8 @@
     "channel": "校園團購",
     "unit_price": 1800,
     "quantity": 14,
-    "returned_quantity": 0,
-    "net_revenue": 25200
+    "returned_quantity": 1,
+    "net_revenue": 23400
   },
   {
     "sale_id": 15,
@@ -199,9 +199,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 900,
-    "quantity": 11,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 9900
+    "net_revenue": 12600
   },
   {
     "sale_id": 18,
@@ -211,9 +211,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 300,
-    "quantity": 4,
+    "quantity": 7,
     "returned_quantity": 1,
-    "net_revenue": 900
+    "net_revenue": 1800
   },
   {
     "sale_id": 19,
@@ -223,9 +223,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 700,
-    "quantity": 15,
+    "quantity": 18,
     "returned_quantity": 0,
-    "net_revenue": 10500
+    "net_revenue": 12600
   },
   {
     "sale_id": 20,
@@ -235,9 +235,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 800,
-    "quantity": 8,
+    "quantity": 11,
     "returned_quantity": 0,
-    "net_revenue": 6400
+    "net_revenue": 8800
   },
   {
     "sale_id": 21,
@@ -247,9 +247,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 500,
-    "quantity": 6,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 3000
+    "net_revenue": 7000
   },
   {
     "sale_id": 22,
@@ -259,9 +259,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 1200,
-    "quantity": 17,
+    "quantity": 25,
     "returned_quantity": 0,
-    "net_revenue": 20400
+    "net_revenue": 30000
   },
   {
     "sale_id": 23,
@@ -271,9 +271,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 650,
-    "quantity": 10,
+    "quantity": 18,
     "returned_quantity": 0,
-    "net_revenue": 6500
+    "net_revenue": 11700
   },
   {
     "sale_id": 24,
@@ -284,8 +284,8 @@
     "channel": "網路商店",
     "unit_price": 1800,
     "quantity": 3,
-    "returned_quantity": 0,
-    "net_revenue": 5400
+    "returned_quantity": 1,
+    "net_revenue": 3600
   },
   {
     "sale_id": 25,
@@ -319,9 +319,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 900,
-    "quantity": 18,
+    "quantity": 21,
     "returned_quantity": 1,
-    "net_revenue": 15300
+    "net_revenue": 18000
   },
   {
     "sale_id": 28,
@@ -331,9 +331,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 300,
-    "quantity": 11,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 3300
+    "net_revenue": 4200
   },
   {
     "sale_id": 29,
@@ -343,9 +343,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 700,
-    "quantity": 4,
+    "quantity": 7,
     "returned_quantity": 0,
-    "net_revenue": 2800
+    "net_revenue": 4900
   },
   {
     "sale_id": 30,
@@ -355,9 +355,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 800,
-    "quantity": 15,
+    "quantity": 18,
     "returned_quantity": 0,
-    "net_revenue": 12000
+    "net_revenue": 14400
   },
   {
     "sale_id": 31,
@@ -367,9 +367,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 500,
-    "quantity": 13,
+    "quantity": 21,
     "returned_quantity": 0,
-    "net_revenue": 6500
+    "net_revenue": 10500
   },
   {
     "sale_id": 32,
@@ -379,9 +379,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 1200,
-    "quantity": 6,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 7200
+    "net_revenue": 16800
   },
   {
     "sale_id": 33,
@@ -391,9 +391,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 650,
-    "quantity": 17,
+    "quantity": 25,
     "returned_quantity": 0,
-    "net_revenue": 11050
+    "net_revenue": 16250
   },
   {
     "sale_id": 34,
@@ -404,8 +404,8 @@
     "channel": "實體門市",
     "unit_price": 1800,
     "quantity": 10,
-    "returned_quantity": 0,
-    "net_revenue": 18000
+    "returned_quantity": 1,
+    "net_revenue": 16200
   },
   {
     "sale_id": 35,
@@ -439,9 +439,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 900,
-    "quantity": 7,
+    "quantity": 10,
     "returned_quantity": 0,
-    "net_revenue": 6300
+    "net_revenue": 9000
   },
   {
     "sale_id": 38,
@@ -451,9 +451,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 300,
-    "quantity": 18,
+    "quantity": 21,
     "returned_quantity": 0,
-    "net_revenue": 5400
+    "net_revenue": 6300
   },
   {
     "sale_id": 39,
@@ -463,9 +463,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 700,
-    "quantity": 11,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 7700
+    "net_revenue": 9800
   },
   {
     "sale_id": 40,
@@ -475,9 +475,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 800,
-    "quantity": 4,
+    "quantity": 7,
     "returned_quantity": 0,
-    "net_revenue": 3200
+    "net_revenue": 5600
   },
   {
     "sale_id": 41,
@@ -487,9 +487,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 500,
-    "quantity": 20,
+    "quantity": 28,
     "returned_quantity": 0,
-    "net_revenue": 10000
+    "net_revenue": 14000
   },
   {
     "sale_id": 42,
@@ -499,9 +499,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 1200,
-    "quantity": 13,
+    "quantity": 21,
     "returned_quantity": 0,
-    "net_revenue": 15600
+    "net_revenue": 25200
   },
   {
     "sale_id": 43,
@@ -511,9 +511,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 650,
-    "quantity": 6,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 3900
+    "net_revenue": 9100
   },
   {
     "sale_id": 44,
@@ -524,8 +524,8 @@
     "channel": "校園團購",
     "unit_price": 1800,
     "quantity": 17,
-    "returned_quantity": 0,
-    "net_revenue": 30600
+    "returned_quantity": 1,
+    "net_revenue": 28800
   },
   {
     "sale_id": 45,
@@ -559,9 +559,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 900,
-    "quantity": 14,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 12600
+    "net_revenue": 15300
   },
   {
     "sale_id": 48,
@@ -571,9 +571,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 300,
-    "quantity": 7,
+    "quantity": 10,
     "returned_quantity": 0,
-    "net_revenue": 2100
+    "net_revenue": 3000
   },
   {
     "sale_id": 49,
@@ -583,9 +583,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 700,
-    "quantity": 18,
+    "quantity": 21,
     "returned_quantity": 0,
-    "net_revenue": 12600
+    "net_revenue": 14700
   },
   {
     "sale_id": 50,
@@ -595,9 +595,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 800,
-    "quantity": 11,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 8800
+    "net_revenue": 11200
   },
   {
     "sale_id": 51,
@@ -607,9 +607,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 500,
-    "quantity": 9,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 4500
+    "net_revenue": 8500
   },
   {
     "sale_id": 52,
@@ -619,9 +619,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 1200,
-    "quantity": 20,
+    "quantity": 28,
     "returned_quantity": 0,
-    "net_revenue": 24000
+    "net_revenue": 33600
   },
   {
     "sale_id": 53,
@@ -631,9 +631,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 650,
-    "quantity": 13,
+    "quantity": 21,
     "returned_quantity": 0,
-    "net_revenue": 8450
+    "net_revenue": 13650
   },
   {
     "sale_id": 54,
@@ -644,8 +644,8 @@
     "channel": "網路商店",
     "unit_price": 1800,
     "quantity": 6,
-    "returned_quantity": 1,
-    "net_revenue": 9000
+    "returned_quantity": 2,
+    "net_revenue": 7200
   },
   {
     "sale_id": 55,
@@ -679,9 +679,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 900,
-    "quantity": 3,
+    "quantity": 6,
     "returned_quantity": 0,
-    "net_revenue": 2700
+    "net_revenue": 5400
   },
   {
     "sale_id": 58,
@@ -691,9 +691,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 300,
-    "quantity": 14,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 4200
+    "net_revenue": 5100
   },
   {
     "sale_id": 59,
@@ -703,9 +703,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 700,
-    "quantity": 7,
+    "quantity": 10,
     "returned_quantity": 0,
-    "net_revenue": 4900
+    "net_revenue": 7000
   },
   {
     "sale_id": 60,
@@ -715,9 +715,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 800,
-    "quantity": 18,
+    "quantity": 21,
     "returned_quantity": 0,
-    "net_revenue": 14400
+    "net_revenue": 16800
   },
   {
     "sale_id": 61,
@@ -727,9 +727,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 500,
-    "quantity": 16,
+    "quantity": 24,
     "returned_quantity": 0,
-    "net_revenue": 8000
+    "net_revenue": 12000
   },
   {
     "sale_id": 62,
@@ -739,9 +739,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 1200,
-    "quantity": 9,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 10800
+    "net_revenue": 20400
   },
   {
     "sale_id": 63,
@@ -751,9 +751,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 650,
-    "quantity": 20,
+    "quantity": 28,
     "returned_quantity": 1,
-    "net_revenue": 12350
+    "net_revenue": 17550
   },
   {
     "sale_id": 64,
@@ -764,8 +764,8 @@
     "channel": "實體門市",
     "unit_price": 1800,
     "quantity": 13,
-    "returned_quantity": 0,
-    "net_revenue": 23400
+    "returned_quantity": 1,
+    "net_revenue": 21600
   },
   {
     "sale_id": 65,
@@ -799,9 +799,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 900,
-    "quantity": 10,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 9000
+    "net_revenue": 11700
   },
   {
     "sale_id": 68,
@@ -811,9 +811,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 300,
-    "quantity": 3,
+    "quantity": 6,
     "returned_quantity": 0,
-    "net_revenue": 900
+    "net_revenue": 1800
   },
   {
     "sale_id": 69,
@@ -823,9 +823,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 700,
-    "quantity": 14,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 9800
+    "net_revenue": 11900
   },
   {
     "sale_id": 70,
@@ -835,9 +835,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 800,
-    "quantity": 7,
+    "quantity": 10,
     "returned_quantity": 0,
-    "net_revenue": 5600
+    "net_revenue": 8000
   },
   {
     "sale_id": 71,
@@ -847,9 +847,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 500,
-    "quantity": 5,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 2500
+    "net_revenue": 6500
   },
   {
     "sale_id": 72,
@@ -859,9 +859,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 1200,
-    "quantity": 16,
+    "quantity": 24,
     "returned_quantity": 1,
-    "net_revenue": 18000
+    "net_revenue": 27600
   },
   {
     "sale_id": 73,
@@ -871,9 +871,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 650,
-    "quantity": 9,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 5850
+    "net_revenue": 11050
   },
   {
     "sale_id": 74,
@@ -884,8 +884,8 @@
     "channel": "校園團購",
     "unit_price": 1800,
     "quantity": 20,
-    "returned_quantity": 0,
-    "net_revenue": 36000
+    "returned_quantity": 1,
+    "net_revenue": 34200
   },
   {
     "sale_id": 75,
@@ -919,9 +919,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 900,
-    "quantity": 17,
+    "quantity": 20,
     "returned_quantity": 0,
-    "net_revenue": 15300
+    "net_revenue": 18000
   },
   {
     "sale_id": 78,
@@ -931,9 +931,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 300,
-    "quantity": 10,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 3000
+    "net_revenue": 3900
   },
   {
     "sale_id": 79,
@@ -943,9 +943,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 700,
-    "quantity": 3,
+    "quantity": 6,
     "returned_quantity": 0,
-    "net_revenue": 2100
+    "net_revenue": 4200
   },
   {
     "sale_id": 80,
@@ -955,9 +955,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 800,
-    "quantity": 14,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 11200
+    "net_revenue": 13600
   },
   {
     "sale_id": 81,
@@ -967,9 +967,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 500,
-    "quantity": 12,
+    "quantity": 20,
     "returned_quantity": 1,
-    "net_revenue": 5500
+    "net_revenue": 9500
   },
   {
     "sale_id": 82,
@@ -979,9 +979,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 1200,
-    "quantity": 5,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 6000
+    "net_revenue": 15600
   },
   {
     "sale_id": 83,
@@ -991,9 +991,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 650,
-    "quantity": 16,
+    "quantity": 24,
     "returned_quantity": 0,
-    "net_revenue": 10400
+    "net_revenue": 15600
   },
   {
     "sale_id": 84,
@@ -1004,8 +1004,8 @@
     "channel": "網路商店",
     "unit_price": 1800,
     "quantity": 9,
-    "returned_quantity": 0,
-    "net_revenue": 16200
+    "returned_quantity": 1,
+    "net_revenue": 14400
   },
   {
     "sale_id": 85,
@@ -1039,9 +1039,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 900,
-    "quantity": 6,
+    "quantity": 9,
     "returned_quantity": 0,
-    "net_revenue": 5400
+    "net_revenue": 8100
   },
   {
     "sale_id": 88,
@@ -1051,9 +1051,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 300,
-    "quantity": 17,
+    "quantity": 20,
     "returned_quantity": 0,
-    "net_revenue": 5100
+    "net_revenue": 6000
   },
   {
     "sale_id": 89,
@@ -1063,9 +1063,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 700,
-    "quantity": 10,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 7000
+    "net_revenue": 9100
   },
   {
     "sale_id": 90,
@@ -1075,9 +1075,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 800,
-    "quantity": 3,
+    "quantity": 6,
     "returned_quantity": 1,
-    "net_revenue": 1600
+    "net_revenue": 4000
   },
   {
     "sale_id": 91,
@@ -1087,9 +1087,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 500,
-    "quantity": 19,
+    "quantity": 27,
     "returned_quantity": 0,
-    "net_revenue": 9500
+    "net_revenue": 13500
   },
   {
     "sale_id": 92,
@@ -1099,9 +1099,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 1200,
-    "quantity": 12,
+    "quantity": 20,
     "returned_quantity": 0,
-    "net_revenue": 14400
+    "net_revenue": 24000
   },
   {
     "sale_id": 93,
@@ -1111,9 +1111,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 650,
-    "quantity": 5,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 3250
+    "net_revenue": 8450
   },
   {
     "sale_id": 94,
@@ -1124,8 +1124,8 @@
     "channel": "實體門市",
     "unit_price": 1800,
     "quantity": 16,
-    "returned_quantity": 0,
-    "net_revenue": 28800
+    "returned_quantity": 1,
+    "net_revenue": 27000
   },
   {
     "sale_id": 95,
@@ -1159,9 +1159,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 900,
-    "quantity": 13,
+    "quantity": 16,
     "returned_quantity": 0,
-    "net_revenue": 11700
+    "net_revenue": 14400
   },
   {
     "sale_id": 98,
@@ -1171,9 +1171,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 300,
-    "quantity": 6,
+    "quantity": 9,
     "returned_quantity": 0,
-    "net_revenue": 1800
+    "net_revenue": 2700
   },
   {
     "sale_id": 99,
@@ -1183,9 +1183,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 700,
-    "quantity": 17,
+    "quantity": 20,
     "returned_quantity": 1,
-    "net_revenue": 11200
+    "net_revenue": 13300
   },
   {
     "sale_id": 100,
@@ -1195,9 +1195,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 800,
-    "quantity": 10,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 8000
+    "net_revenue": 10400
   },
   {
     "sale_id": 101,
@@ -1207,9 +1207,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 500,
-    "quantity": 8,
+    "quantity": 16,
     "returned_quantity": 0,
-    "net_revenue": 4000
+    "net_revenue": 8000
   },
   {
     "sale_id": 102,
@@ -1219,9 +1219,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 1200,
-    "quantity": 19,
+    "quantity": 27,
     "returned_quantity": 0,
-    "net_revenue": 22800
+    "net_revenue": 32400
   },
   {
     "sale_id": 103,
@@ -1231,9 +1231,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 650,
-    "quantity": 12,
+    "quantity": 20,
     "returned_quantity": 0,
-    "net_revenue": 7800
+    "net_revenue": 13000
   },
   {
     "sale_id": 104,
@@ -1244,8 +1244,8 @@
     "channel": "校園團購",
     "unit_price": 1800,
     "quantity": 5,
-    "returned_quantity": 0,
-    "net_revenue": 9000
+    "returned_quantity": 1,
+    "net_revenue": 7200
   },
   {
     "sale_id": 105,
@@ -1279,9 +1279,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 900,
-    "quantity": 20,
+    "quantity": 23,
     "returned_quantity": 0,
-    "net_revenue": 18000
+    "net_revenue": 20700
   },
   {
     "sale_id": 108,
@@ -1291,9 +1291,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 300,
-    "quantity": 13,
+    "quantity": 16,
     "returned_quantity": 1,
-    "net_revenue": 3600
+    "net_revenue": 4500
   },
   {
     "sale_id": 109,
@@ -1303,9 +1303,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 700,
-    "quantity": 6,
+    "quantity": 9,
     "returned_quantity": 0,
-    "net_revenue": 4200
+    "net_revenue": 6300
   },
   {
     "sale_id": 110,
@@ -1315,9 +1315,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 800,
-    "quantity": 17,
+    "quantity": 20,
     "returned_quantity": 0,
-    "net_revenue": 13600
+    "net_revenue": 16000
   },
   {
     "sale_id": 111,
@@ -1327,9 +1327,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 500,
-    "quantity": 15,
+    "quantity": 23,
     "returned_quantity": 0,
-    "net_revenue": 7500
+    "net_revenue": 11500
   },
   {
     "sale_id": 112,
@@ -1339,9 +1339,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 1200,
-    "quantity": 8,
+    "quantity": 16,
     "returned_quantity": 0,
-    "net_revenue": 9600
+    "net_revenue": 19200
   },
   {
     "sale_id": 113,
@@ -1351,9 +1351,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 650,
-    "quantity": 19,
+    "quantity": 27,
     "returned_quantity": 0,
-    "net_revenue": 12350
+    "net_revenue": 17550
   },
   {
     "sale_id": 114,
@@ -1364,8 +1364,8 @@
     "channel": "網路商店",
     "unit_price": 1800,
     "quantity": 12,
-    "returned_quantity": 0,
-    "net_revenue": 21600
+    "returned_quantity": 1,
+    "net_revenue": 19800
   },
   {
     "sale_id": 115,
@@ -1399,9 +1399,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 900,
-    "quantity": 9,
+    "quantity": 12,
     "returned_quantity": 1,
-    "net_revenue": 7200
+    "net_revenue": 9900
   },
   {
     "sale_id": 118,
@@ -1411,9 +1411,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 300,
-    "quantity": 20,
+    "quantity": 23,
     "returned_quantity": 0,
-    "net_revenue": 6000
+    "net_revenue": 6900
   },
   {
     "sale_id": 119,
@@ -1423,9 +1423,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 700,
-    "quantity": 13,
+    "quantity": 16,
     "returned_quantity": 0,
-    "net_revenue": 9100
+    "net_revenue": 11200
   },
   {
     "sale_id": 120,
@@ -1435,9 +1435,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 800,
-    "quantity": 6,
+    "quantity": 9,
     "returned_quantity": 0,
-    "net_revenue": 4800
+    "net_revenue": 7200
   },
   {
     "sale_id": 121,
@@ -1447,9 +1447,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 500,
-    "quantity": 4,
+    "quantity": 12,
     "returned_quantity": 0,
-    "net_revenue": 2000
+    "net_revenue": 6000
   },
   {
     "sale_id": 122,
@@ -1459,9 +1459,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 1200,
-    "quantity": 15,
+    "quantity": 23,
     "returned_quantity": 0,
-    "net_revenue": 18000
+    "net_revenue": 27600
   },
   {
     "sale_id": 123,
@@ -1471,9 +1471,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 650,
-    "quantity": 8,
+    "quantity": 16,
     "returned_quantity": 0,
-    "net_revenue": 5200
+    "net_revenue": 10400
   },
   {
     "sale_id": 124,
@@ -1484,8 +1484,8 @@
     "channel": "實體門市",
     "unit_price": 1800,
     "quantity": 19,
-    "returned_quantity": 0,
-    "net_revenue": 34200
+    "returned_quantity": 1,
+    "net_revenue": 32400
   },
   {
     "sale_id": 125,
@@ -1519,9 +1519,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 900,
-    "quantity": 16,
+    "quantity": 19,
     "returned_quantity": 0,
-    "net_revenue": 14400
+    "net_revenue": 17100
   },
   {
     "sale_id": 128,
@@ -1531,9 +1531,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 300,
-    "quantity": 9,
+    "quantity": 12,
     "returned_quantity": 0,
-    "net_revenue": 2700
+    "net_revenue": 3600
   },
   {
     "sale_id": 129,
@@ -1543,9 +1543,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 700,
-    "quantity": 20,
+    "quantity": 23,
     "returned_quantity": 0,
-    "net_revenue": 14000
+    "net_revenue": 16100
   },
   {
     "sale_id": 130,
@@ -1555,9 +1555,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 800,
-    "quantity": 13,
+    "quantity": 16,
     "returned_quantity": 0,
-    "net_revenue": 10400
+    "net_revenue": 12800
   },
   {
     "sale_id": 131,
@@ -1567,9 +1567,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 500,
-    "quantity": 11,
+    "quantity": 19,
     "returned_quantity": 0,
-    "net_revenue": 5500
+    "net_revenue": 9500
   },
   {
     "sale_id": 132,
@@ -1579,9 +1579,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 1200,
-    "quantity": 4,
+    "quantity": 12,
     "returned_quantity": 0,
-    "net_revenue": 4800
+    "net_revenue": 14400
   },
   {
     "sale_id": 133,
@@ -1591,9 +1591,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 650,
-    "quantity": 15,
+    "quantity": 23,
     "returned_quantity": 0,
-    "net_revenue": 9750
+    "net_revenue": 14950
   },
   {
     "sale_id": 134,
@@ -1604,8 +1604,8 @@
     "channel": "校園團購",
     "unit_price": 1800,
     "quantity": 8,
-    "returned_quantity": 0,
-    "net_revenue": 14400
+    "returned_quantity": 1,
+    "net_revenue": 12600
   },
   {
     "sale_id": 135,
@@ -1639,9 +1639,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 900,
-    "quantity": 5,
+    "quantity": 8,
     "returned_quantity": 0,
-    "net_revenue": 4500
+    "net_revenue": 7200
   },
   {
     "sale_id": 138,
@@ -1651,9 +1651,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 300,
-    "quantity": 16,
+    "quantity": 19,
     "returned_quantity": 0,
-    "net_revenue": 4800
+    "net_revenue": 5700
   },
   {
     "sale_id": 139,
@@ -1663,9 +1663,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 700,
-    "quantity": 9,
+    "quantity": 12,
     "returned_quantity": 0,
-    "net_revenue": 6300
+    "net_revenue": 8400
   },
   {
     "sale_id": 140,
@@ -1675,9 +1675,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 800,
-    "quantity": 20,
+    "quantity": 23,
     "returned_quantity": 0,
-    "net_revenue": 16000
+    "net_revenue": 18400
   },
   {
     "sale_id": 141,
@@ -1687,9 +1687,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 500,
-    "quantity": 18,
+    "quantity": 26,
     "returned_quantity": 0,
-    "net_revenue": 9000
+    "net_revenue": 13000
   },
   {
     "sale_id": 142,
@@ -1699,9 +1699,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 1200,
-    "quantity": 11,
+    "quantity": 19,
     "returned_quantity": 0,
-    "net_revenue": 13200
+    "net_revenue": 22800
   },
   {
     "sale_id": 143,
@@ -1711,9 +1711,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 650,
-    "quantity": 4,
+    "quantity": 12,
     "returned_quantity": 0,
-    "net_revenue": 2600
+    "net_revenue": 7800
   },
   {
     "sale_id": 144,
@@ -1724,8 +1724,8 @@
     "channel": "網路商店",
     "unit_price": 1800,
     "quantity": 15,
-    "returned_quantity": 1,
-    "net_revenue": 25200
+    "returned_quantity": 2,
+    "net_revenue": 23400
   },
   {
     "sale_id": 145,
@@ -1759,9 +1759,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 900,
-    "quantity": 12,
+    "quantity": 15,
     "returned_quantity": 0,
-    "net_revenue": 10800
+    "net_revenue": 13500
   },
   {
     "sale_id": 148,
@@ -1771,9 +1771,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 300,
-    "quantity": 5,
+    "quantity": 8,
     "returned_quantity": 0,
-    "net_revenue": 1500
+    "net_revenue": 2400
   },
   {
     "sale_id": 149,
@@ -1783,9 +1783,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 700,
-    "quantity": 16,
+    "quantity": 19,
     "returned_quantity": 0,
-    "net_revenue": 11200
+    "net_revenue": 13300
   },
   {
     "sale_id": 150,
@@ -1795,9 +1795,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 800,
-    "quantity": 9,
+    "quantity": 12,
     "returned_quantity": 0,
-    "net_revenue": 7200
+    "net_revenue": 9600
   },
   {
     "sale_id": 151,
@@ -1807,9 +1807,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 500,
-    "quantity": 7,
+    "quantity": 15,
     "returned_quantity": 0,
-    "net_revenue": 3500
+    "net_revenue": 7500
   },
   {
     "sale_id": 152,
@@ -1819,9 +1819,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 1200,
-    "quantity": 18,
+    "quantity": 26,
     "returned_quantity": 0,
-    "net_revenue": 21600
+    "net_revenue": 31200
   },
   {
     "sale_id": 153,
@@ -1831,9 +1831,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 650,
-    "quantity": 11,
+    "quantity": 19,
     "returned_quantity": 1,
-    "net_revenue": 6500
+    "net_revenue": 11700
   },
   {
     "sale_id": 154,
@@ -1844,8 +1844,8 @@
     "channel": "實體門市",
     "unit_price": 1800,
     "quantity": 4,
-    "returned_quantity": 0,
-    "net_revenue": 7200
+    "returned_quantity": 1,
+    "net_revenue": 5400
   },
   {
     "sale_id": 155,
@@ -1879,9 +1879,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 900,
-    "quantity": 19,
+    "quantity": 22,
     "returned_quantity": 0,
-    "net_revenue": 17100
+    "net_revenue": 19800
   },
   {
     "sale_id": 158,
@@ -1891,9 +1891,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 300,
-    "quantity": 12,
+    "quantity": 15,
     "returned_quantity": 0,
-    "net_revenue": 3600
+    "net_revenue": 4500
   },
   {
     "sale_id": 159,
@@ -1903,9 +1903,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 700,
-    "quantity": 5,
+    "quantity": 8,
     "returned_quantity": 0,
-    "net_revenue": 3500
+    "net_revenue": 5600
   },
   {
     "sale_id": 160,
@@ -1915,9 +1915,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 800,
-    "quantity": 16,
+    "quantity": 19,
     "returned_quantity": 0,
-    "net_revenue": 12800
+    "net_revenue": 15200
   },
   {
     "sale_id": 161,
@@ -1927,9 +1927,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 500,
-    "quantity": 14,
+    "quantity": 22,
     "returned_quantity": 0,
-    "net_revenue": 7000
+    "net_revenue": 11000
   },
   {
     "sale_id": 162,
@@ -1939,9 +1939,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 1200,
-    "quantity": 7,
+    "quantity": 15,
     "returned_quantity": 1,
-    "net_revenue": 7200
+    "net_revenue": 16800
   },
   {
     "sale_id": 163,
@@ -1951,9 +1951,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 650,
-    "quantity": 18,
+    "quantity": 26,
     "returned_quantity": 0,
-    "net_revenue": 11700
+    "net_revenue": 16900
   },
   {
     "sale_id": 164,
@@ -1964,8 +1964,8 @@
     "channel": "校園團購",
     "unit_price": 1800,
     "quantity": 11,
-    "returned_quantity": 0,
-    "net_revenue": 19800
+    "returned_quantity": 1,
+    "net_revenue": 18000
   },
   {
     "sale_id": 165,
@@ -1999,9 +1999,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 900,
-    "quantity": 8,
+    "quantity": 11,
     "returned_quantity": 0,
-    "net_revenue": 7200
+    "net_revenue": 9900
   },
   {
     "sale_id": 168,
@@ -2011,9 +2011,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 300,
-    "quantity": 19,
+    "quantity": 22,
     "returned_quantity": 0,
-    "net_revenue": 5700
+    "net_revenue": 6600
   },
   {
     "sale_id": 169,
@@ -2023,9 +2023,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 700,
-    "quantity": 12,
+    "quantity": 15,
     "returned_quantity": 0,
-    "net_revenue": 8400
+    "net_revenue": 10500
   },
   {
     "sale_id": 170,
@@ -2035,9 +2035,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 800,
-    "quantity": 5,
+    "quantity": 8,
     "returned_quantity": 0,
-    "net_revenue": 4000
+    "net_revenue": 6400
   },
   {
     "sale_id": 171,
@@ -2047,9 +2047,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 500,
-    "quantity": 3,
+    "quantity": 11,
     "returned_quantity": 1,
-    "net_revenue": 1000
+    "net_revenue": 5000
   },
   {
     "sale_id": 172,
@@ -2059,9 +2059,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 1200,
-    "quantity": 14,
+    "quantity": 22,
     "returned_quantity": 0,
-    "net_revenue": 16800
+    "net_revenue": 26400
   },
   {
     "sale_id": 173,
@@ -2071,9 +2071,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 650,
-    "quantity": 7,
+    "quantity": 15,
     "returned_quantity": 0,
-    "net_revenue": 4550
+    "net_revenue": 9750
   },
   {
     "sale_id": 174,
@@ -2084,8 +2084,8 @@
     "channel": "網路商店",
     "unit_price": 1800,
     "quantity": 18,
-    "returned_quantity": 0,
-    "net_revenue": 32400
+    "returned_quantity": 1,
+    "net_revenue": 30600
   },
   {
     "sale_id": 175,
@@ -2119,9 +2119,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 900,
-    "quantity": 15,
+    "quantity": 18,
     "returned_quantity": 0,
-    "net_revenue": 13500
+    "net_revenue": 16200
   },
   {
     "sale_id": 178,
@@ -2131,9 +2131,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 300,
-    "quantity": 8,
+    "quantity": 11,
     "returned_quantity": 0,
-    "net_revenue": 2400
+    "net_revenue": 3300
   },
   {
     "sale_id": 179,
@@ -2143,9 +2143,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 700,
-    "quantity": 19,
+    "quantity": 22,
     "returned_quantity": 0,
-    "net_revenue": 13300
+    "net_revenue": 15400
   },
   {
     "sale_id": 180,
@@ -2155,9 +2155,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 800,
-    "quantity": 12,
+    "quantity": 15,
     "returned_quantity": 1,
-    "net_revenue": 8800
+    "net_revenue": 11200
   },
   {
     "sale_id": 181,
@@ -2167,9 +2167,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 500,
-    "quantity": 10,
+    "quantity": 18,
     "returned_quantity": 0,
-    "net_revenue": 5000
+    "net_revenue": 9000
   },
   {
     "sale_id": 182,
@@ -2179,9 +2179,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 1200,
-    "quantity": 3,
+    "quantity": 11,
     "returned_quantity": 0,
-    "net_revenue": 3600
+    "net_revenue": 13200
   },
   {
     "sale_id": 183,
@@ -2191,9 +2191,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 650,
-    "quantity": 14,
+    "quantity": 22,
     "returned_quantity": 0,
-    "net_revenue": 9100
+    "net_revenue": 14300
   },
   {
     "sale_id": 184,
@@ -2204,8 +2204,8 @@
     "channel": "實體門市",
     "unit_price": 1800,
     "quantity": 7,
-    "returned_quantity": 0,
-    "net_revenue": 12600
+    "returned_quantity": 1,
+    "net_revenue": 10800
   },
   {
     "sale_id": 185,
@@ -2239,9 +2239,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 900,
-    "quantity": 4,
+    "quantity": 7,
     "returned_quantity": 0,
-    "net_revenue": 3600
+    "net_revenue": 6300
   },
   {
     "sale_id": 188,
@@ -2251,9 +2251,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 300,
-    "quantity": 15,
+    "quantity": 18,
     "returned_quantity": 0,
-    "net_revenue": 4500
+    "net_revenue": 5400
   },
   {
     "sale_id": 189,
@@ -2263,9 +2263,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 700,
-    "quantity": 8,
+    "quantity": 11,
     "returned_quantity": 1,
-    "net_revenue": 4900
+    "net_revenue": 7000
   },
   {
     "sale_id": 190,
@@ -2275,9 +2275,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 800,
-    "quantity": 19,
+    "quantity": 22,
     "returned_quantity": 0,
-    "net_revenue": 15200
+    "net_revenue": 17600
   },
   {
     "sale_id": 191,
@@ -2287,9 +2287,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 500,
-    "quantity": 17,
+    "quantity": 25,
     "returned_quantity": 0,
-    "net_revenue": 8500
+    "net_revenue": 12500
   },
   {
     "sale_id": 192,
@@ -2299,9 +2299,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 1200,
-    "quantity": 10,
+    "quantity": 18,
     "returned_quantity": 0,
-    "net_revenue": 12000
+    "net_revenue": 21600
   },
   {
     "sale_id": 193,
@@ -2311,9 +2311,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 650,
-    "quantity": 3,
+    "quantity": 11,
     "returned_quantity": 0,
-    "net_revenue": 1950
+    "net_revenue": 7150
   },
   {
     "sale_id": 194,
@@ -2324,8 +2324,8 @@
     "channel": "校園團購",
     "unit_price": 1800,
     "quantity": 14,
-    "returned_quantity": 0,
-    "net_revenue": 25200
+    "returned_quantity": 1,
+    "net_revenue": 23400
   },
   {
     "sale_id": 195,
@@ -2359,9 +2359,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 900,
-    "quantity": 11,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 9900
+    "net_revenue": 12600
   },
   {
     "sale_id": 198,
@@ -2371,9 +2371,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 300,
-    "quantity": 4,
+    "quantity": 7,
     "returned_quantity": 1,
-    "net_revenue": 900
+    "net_revenue": 1800
   },
   {
     "sale_id": 199,
@@ -2383,9 +2383,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 700,
-    "quantity": 15,
+    "quantity": 18,
     "returned_quantity": 0,
-    "net_revenue": 10500
+    "net_revenue": 12600
   },
   {
     "sale_id": 200,
@@ -2395,9 +2395,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 800,
-    "quantity": 8,
+    "quantity": 11,
     "returned_quantity": 0,
-    "net_revenue": 6400
+    "net_revenue": 8800
   },
   {
     "sale_id": 201,
@@ -2407,9 +2407,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 500,
-    "quantity": 6,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 3000
+    "net_revenue": 7000
   },
   {
     "sale_id": 202,
@@ -2419,9 +2419,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 1200,
-    "quantity": 17,
+    "quantity": 25,
     "returned_quantity": 0,
-    "net_revenue": 20400
+    "net_revenue": 30000
   },
   {
     "sale_id": 203,
@@ -2431,9 +2431,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 650,
-    "quantity": 10,
+    "quantity": 18,
     "returned_quantity": 0,
-    "net_revenue": 6500
+    "net_revenue": 11700
   },
   {
     "sale_id": 204,
@@ -2444,8 +2444,8 @@
     "channel": "網路商店",
     "unit_price": 1800,
     "quantity": 3,
-    "returned_quantity": 0,
-    "net_revenue": 5400
+    "returned_quantity": 1,
+    "net_revenue": 3600
   },
   {
     "sale_id": 205,
@@ -2479,9 +2479,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 900,
-    "quantity": 18,
+    "quantity": 21,
     "returned_quantity": 1,
-    "net_revenue": 15300
+    "net_revenue": 18000
   },
   {
     "sale_id": 208,
@@ -2491,9 +2491,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 300,
-    "quantity": 11,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 3300
+    "net_revenue": 4200
   },
   {
     "sale_id": 209,
@@ -2503,9 +2503,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 700,
-    "quantity": 4,
+    "quantity": 7,
     "returned_quantity": 0,
-    "net_revenue": 2800
+    "net_revenue": 4900
   },
   {
     "sale_id": 210,
@@ -2515,9 +2515,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 800,
-    "quantity": 15,
+    "quantity": 18,
     "returned_quantity": 0,
-    "net_revenue": 12000
+    "net_revenue": 14400
   },
   {
     "sale_id": 211,
@@ -2527,9 +2527,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 500,
-    "quantity": 13,
+    "quantity": 21,
     "returned_quantity": 0,
-    "net_revenue": 6500
+    "net_revenue": 10500
   },
   {
     "sale_id": 212,
@@ -2539,9 +2539,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 1200,
-    "quantity": 6,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 7200
+    "net_revenue": 16800
   },
   {
     "sale_id": 213,
@@ -2551,9 +2551,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 650,
-    "quantity": 17,
+    "quantity": 25,
     "returned_quantity": 0,
-    "net_revenue": 11050
+    "net_revenue": 16250
   },
   {
     "sale_id": 214,
@@ -2564,8 +2564,8 @@
     "channel": "實體門市",
     "unit_price": 1800,
     "quantity": 10,
-    "returned_quantity": 0,
-    "net_revenue": 18000
+    "returned_quantity": 1,
+    "net_revenue": 16200
   },
   {
     "sale_id": 215,
@@ -2599,9 +2599,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 900,
-    "quantity": 7,
+    "quantity": 10,
     "returned_quantity": 0,
-    "net_revenue": 6300
+    "net_revenue": 9000
   },
   {
     "sale_id": 218,
@@ -2611,9 +2611,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 300,
-    "quantity": 18,
+    "quantity": 21,
     "returned_quantity": 0,
-    "net_revenue": 5400
+    "net_revenue": 6300
   },
   {
     "sale_id": 219,
@@ -2623,9 +2623,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 700,
-    "quantity": 11,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 7700
+    "net_revenue": 9800
   },
   {
     "sale_id": 220,
@@ -2635,9 +2635,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 800,
-    "quantity": 4,
+    "quantity": 7,
     "returned_quantity": 0,
-    "net_revenue": 3200
+    "net_revenue": 5600
   },
   {
     "sale_id": 221,
@@ -2647,9 +2647,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 500,
-    "quantity": 20,
+    "quantity": 28,
     "returned_quantity": 0,
-    "net_revenue": 10000
+    "net_revenue": 14000
   },
   {
     "sale_id": 222,
@@ -2659,9 +2659,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 1200,
-    "quantity": 13,
+    "quantity": 21,
     "returned_quantity": 0,
-    "net_revenue": 15600
+    "net_revenue": 25200
   },
   {
     "sale_id": 223,
@@ -2671,9 +2671,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 650,
-    "quantity": 6,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 3900
+    "net_revenue": 9100
   },
   {
     "sale_id": 224,
@@ -2684,8 +2684,8 @@
     "channel": "校園團購",
     "unit_price": 1800,
     "quantity": 17,
-    "returned_quantity": 0,
-    "net_revenue": 30600
+    "returned_quantity": 1,
+    "net_revenue": 28800
   },
   {
     "sale_id": 225,
@@ -2719,9 +2719,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 900,
-    "quantity": 14,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 12600
+    "net_revenue": 15300
   },
   {
     "sale_id": 228,
@@ -2731,9 +2731,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 300,
-    "quantity": 7,
+    "quantity": 10,
     "returned_quantity": 0,
-    "net_revenue": 2100
+    "net_revenue": 3000
   },
   {
     "sale_id": 229,
@@ -2743,9 +2743,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 700,
-    "quantity": 18,
+    "quantity": 21,
     "returned_quantity": 0,
-    "net_revenue": 12600
+    "net_revenue": 14700
   },
   {
     "sale_id": 230,
@@ -2755,9 +2755,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 800,
-    "quantity": 11,
+    "quantity": 14,
     "returned_quantity": 0,
-    "net_revenue": 8800
+    "net_revenue": 11200
   },
   {
     "sale_id": 231,
@@ -2767,9 +2767,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 500,
-    "quantity": 9,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 4500
+    "net_revenue": 8500
   },
   {
     "sale_id": 232,
@@ -2779,9 +2779,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 1200,
-    "quantity": 20,
+    "quantity": 28,
     "returned_quantity": 0,
-    "net_revenue": 24000
+    "net_revenue": 33600
   },
   {
     "sale_id": 233,
@@ -2791,9 +2791,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 650,
-    "quantity": 13,
+    "quantity": 21,
     "returned_quantity": 0,
-    "net_revenue": 8450
+    "net_revenue": 13650
   },
   {
     "sale_id": 234,
@@ -2804,8 +2804,8 @@
     "channel": "網路商店",
     "unit_price": 1800,
     "quantity": 6,
-    "returned_quantity": 1,
-    "net_revenue": 9000
+    "returned_quantity": 2,
+    "net_revenue": 7200
   },
   {
     "sale_id": 235,
@@ -2839,9 +2839,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 900,
-    "quantity": 3,
+    "quantity": 6,
     "returned_quantity": 0,
-    "net_revenue": 2700
+    "net_revenue": 5400
   },
   {
     "sale_id": 238,
@@ -2851,9 +2851,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 300,
-    "quantity": 14,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 4200
+    "net_revenue": 5100
   },
   {
     "sale_id": 239,
@@ -2863,9 +2863,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 700,
-    "quantity": 7,
+    "quantity": 10,
     "returned_quantity": 0,
-    "net_revenue": 4900
+    "net_revenue": 7000
   },
   {
     "sale_id": 240,
@@ -2875,9 +2875,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 800,
-    "quantity": 18,
+    "quantity": 21,
     "returned_quantity": 0,
-    "net_revenue": 14400
+    "net_revenue": 16800
   },
   {
     "sale_id": 241,
@@ -2887,9 +2887,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 500,
-    "quantity": 16,
+    "quantity": 24,
     "returned_quantity": 0,
-    "net_revenue": 8000
+    "net_revenue": 12000
   },
   {
     "sale_id": 242,
@@ -2899,9 +2899,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 1200,
-    "quantity": 9,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 10800
+    "net_revenue": 20400
   },
   {
     "sale_id": 243,
@@ -2911,9 +2911,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 650,
-    "quantity": 20,
+    "quantity": 28,
     "returned_quantity": 1,
-    "net_revenue": 12350
+    "net_revenue": 17550
   },
   {
     "sale_id": 244,
@@ -2924,8 +2924,8 @@
     "channel": "實體門市",
     "unit_price": 1800,
     "quantity": 13,
-    "returned_quantity": 0,
-    "net_revenue": 23400
+    "returned_quantity": 1,
+    "net_revenue": 21600
   },
   {
     "sale_id": 245,
@@ -2959,9 +2959,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 900,
-    "quantity": 10,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 9000
+    "net_revenue": 11700
   },
   {
     "sale_id": 248,
@@ -2971,9 +2971,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 300,
-    "quantity": 3,
+    "quantity": 6,
     "returned_quantity": 0,
-    "net_revenue": 900
+    "net_revenue": 1800
   },
   {
     "sale_id": 249,
@@ -2983,9 +2983,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 700,
-    "quantity": 14,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 9800
+    "net_revenue": 11900
   },
   {
     "sale_id": 250,
@@ -2995,9 +2995,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 800,
-    "quantity": 7,
+    "quantity": 10,
     "returned_quantity": 0,
-    "net_revenue": 5600
+    "net_revenue": 8000
   },
   {
     "sale_id": 251,
@@ -3007,9 +3007,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 500,
-    "quantity": 5,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 2500
+    "net_revenue": 6500
   },
   {
     "sale_id": 252,
@@ -3019,9 +3019,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 1200,
-    "quantity": 16,
+    "quantity": 24,
     "returned_quantity": 1,
-    "net_revenue": 18000
+    "net_revenue": 27600
   },
   {
     "sale_id": 253,
@@ -3031,9 +3031,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 650,
-    "quantity": 9,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 5850
+    "net_revenue": 11050
   },
   {
     "sale_id": 254,
@@ -3044,8 +3044,8 @@
     "channel": "校園團購",
     "unit_price": 1800,
     "quantity": 20,
-    "returned_quantity": 0,
-    "net_revenue": 36000
+    "returned_quantity": 1,
+    "net_revenue": 34200
   },
   {
     "sale_id": 255,
@@ -3079,9 +3079,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 900,
-    "quantity": 17,
+    "quantity": 20,
     "returned_quantity": 0,
-    "net_revenue": 15300
+    "net_revenue": 18000
   },
   {
     "sale_id": 258,
@@ -3091,9 +3091,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 300,
-    "quantity": 10,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 3000
+    "net_revenue": 3900
   },
   {
     "sale_id": 259,
@@ -3103,9 +3103,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 700,
-    "quantity": 3,
+    "quantity": 6,
     "returned_quantity": 0,
-    "net_revenue": 2100
+    "net_revenue": 4200
   },
   {
     "sale_id": 260,
@@ -3115,9 +3115,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 800,
-    "quantity": 14,
+    "quantity": 17,
     "returned_quantity": 0,
-    "net_revenue": 11200
+    "net_revenue": 13600
   },
   {
     "sale_id": 261,
@@ -3127,9 +3127,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 500,
-    "quantity": 12,
+    "quantity": 20,
     "returned_quantity": 1,
-    "net_revenue": 5500
+    "net_revenue": 9500
   },
   {
     "sale_id": 262,
@@ -3139,9 +3139,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 1200,
-    "quantity": 5,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 6000
+    "net_revenue": 15600
   },
   {
     "sale_id": 263,
@@ -3151,9 +3151,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 650,
-    "quantity": 16,
+    "quantity": 24,
     "returned_quantity": 0,
-    "net_revenue": 10400
+    "net_revenue": 15600
   },
   {
     "sale_id": 264,
@@ -3164,8 +3164,8 @@
     "channel": "網路商店",
     "unit_price": 1800,
     "quantity": 9,
-    "returned_quantity": 0,
-    "net_revenue": 16200
+    "returned_quantity": 1,
+    "net_revenue": 14400
   },
   {
     "sale_id": 265,
@@ -3199,9 +3199,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 900,
-    "quantity": 6,
+    "quantity": 9,
     "returned_quantity": 0,
-    "net_revenue": 5400
+    "net_revenue": 8100
   },
   {
     "sale_id": 268,
@@ -3211,9 +3211,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 300,
-    "quantity": 17,
+    "quantity": 20,
     "returned_quantity": 0,
-    "net_revenue": 5100
+    "net_revenue": 6000
   },
   {
     "sale_id": 269,
@@ -3223,9 +3223,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 700,
-    "quantity": 10,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 7000
+    "net_revenue": 9100
   },
   {
     "sale_id": 270,
@@ -3235,9 +3235,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 800,
-    "quantity": 3,
+    "quantity": 6,
     "returned_quantity": 1,
-    "net_revenue": 1600
+    "net_revenue": 4000
   },
   {
     "sale_id": 271,
@@ -3247,9 +3247,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 500,
-    "quantity": 19,
+    "quantity": 27,
     "returned_quantity": 0,
-    "net_revenue": 9500
+    "net_revenue": 13500
   },
   {
     "sale_id": 272,
@@ -3259,9 +3259,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 1200,
-    "quantity": 12,
+    "quantity": 20,
     "returned_quantity": 0,
-    "net_revenue": 14400
+    "net_revenue": 24000
   },
   {
     "sale_id": 273,
@@ -3271,9 +3271,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 650,
-    "quantity": 5,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 3250
+    "net_revenue": 8450
   },
   {
     "sale_id": 274,
@@ -3284,8 +3284,8 @@
     "channel": "實體門市",
     "unit_price": 1800,
     "quantity": 16,
-    "returned_quantity": 0,
-    "net_revenue": 28800
+    "returned_quantity": 1,
+    "net_revenue": 27000
   },
   {
     "sale_id": 275,
@@ -3319,9 +3319,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 900,
-    "quantity": 13,
+    "quantity": 16,
     "returned_quantity": 0,
-    "net_revenue": 11700
+    "net_revenue": 14400
   },
   {
     "sale_id": 278,
@@ -3331,9 +3331,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 300,
-    "quantity": 6,
+    "quantity": 9,
     "returned_quantity": 0,
-    "net_revenue": 1800
+    "net_revenue": 2700
   },
   {
     "sale_id": 279,
@@ -3343,9 +3343,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 700,
-    "quantity": 17,
+    "quantity": 20,
     "returned_quantity": 1,
-    "net_revenue": 11200
+    "net_revenue": 13300
   },
   {
     "sale_id": 280,
@@ -3355,9 +3355,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 800,
-    "quantity": 10,
+    "quantity": 13,
     "returned_quantity": 0,
-    "net_revenue": 8000
+    "net_revenue": 10400
   },
   {
     "sale_id": 281,
@@ -3367,9 +3367,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 500,
-    "quantity": 8,
+    "quantity": 16,
     "returned_quantity": 0,
-    "net_revenue": 4000
+    "net_revenue": 8000
   },
   {
     "sale_id": 282,
@@ -3379,9 +3379,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 1200,
-    "quantity": 19,
+    "quantity": 27,
     "returned_quantity": 0,
-    "net_revenue": 22800
+    "net_revenue": 32400
   },
   {
     "sale_id": 283,
@@ -3391,9 +3391,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 650,
-    "quantity": 12,
+    "quantity": 20,
     "returned_quantity": 0,
-    "net_revenue": 7800
+    "net_revenue": 13000
   },
   {
     "sale_id": 284,
@@ -3404,8 +3404,8 @@
     "channel": "校園團購",
     "unit_price": 1800,
     "quantity": 5,
-    "returned_quantity": 0,
-    "net_revenue": 9000
+    "returned_quantity": 1,
+    "net_revenue": 7200
   },
   {
     "sale_id": 285,
@@ -3439,9 +3439,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 900,
-    "quantity": 20,
+    "quantity": 23,
     "returned_quantity": 0,
-    "net_revenue": 18000
+    "net_revenue": 20700
   },
   {
     "sale_id": 288,
@@ -3451,9 +3451,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 300,
-    "quantity": 13,
+    "quantity": 16,
     "returned_quantity": 1,
-    "net_revenue": 3600
+    "net_revenue": 4500
   },
   {
     "sale_id": 289,
@@ -3463,9 +3463,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 700,
-    "quantity": 6,
+    "quantity": 9,
     "returned_quantity": 0,
-    "net_revenue": 4200
+    "net_revenue": 6300
   },
   {
     "sale_id": 290,
@@ -3475,9 +3475,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 800,
-    "quantity": 17,
+    "quantity": 20,
     "returned_quantity": 0,
-    "net_revenue": 13600
+    "net_revenue": 16000
   },
   {
     "sale_id": 291,
@@ -3487,9 +3487,9 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 500,
-    "quantity": 15,
+    "quantity": 23,
     "returned_quantity": 0,
-    "net_revenue": 7500
+    "net_revenue": 11500
   },
   {
     "sale_id": 292,
@@ -3499,9 +3499,9 @@
     "category": "電腦周邊",
     "channel": "實體門市",
     "unit_price": 1200,
-    "quantity": 8,
+    "quantity": 16,
     "returned_quantity": 0,
-    "net_revenue": 9600
+    "net_revenue": 19200
   },
   {
     "sale_id": 293,
@@ -3511,9 +3511,9 @@
     "category": "電腦周邊",
     "channel": "校園團購",
     "unit_price": 650,
-    "quantity": 19,
+    "quantity": 27,
     "returned_quantity": 0,
-    "net_revenue": 12350
+    "net_revenue": 17550
   },
   {
     "sale_id": 294,
@@ -3524,8 +3524,8 @@
     "channel": "網路商店",
     "unit_price": 1800,
     "quantity": 12,
-    "returned_quantity": 0,
-    "net_revenue": 21600
+    "returned_quantity": 1,
+    "net_revenue": 19800
   },
   {
     "sale_id": 295,
@@ -3559,9 +3559,9 @@
     "category": "行動配件",
     "channel": "網路商店",
     "unit_price": 900,
-    "quantity": 9,
+    "quantity": 12,
     "returned_quantity": 1,
-    "net_revenue": 7200
+    "net_revenue": 9900
   },
   {
     "sale_id": 298,
@@ -3571,9 +3571,9 @@
     "category": "行動配件",
     "channel": "實體門市",
     "unit_price": 300,
-    "quantity": 20,
+    "quantity": 23,
     "returned_quantity": 0,
-    "net_revenue": 6000
+    "net_revenue": 6900
   },
   {
     "sale_id": 299,
@@ -3583,9 +3583,9 @@
     "category": "行動配件",
     "channel": "校園團購",
     "unit_price": 700,
-    "quantity": 13,
+    "quantity": 16,
     "returned_quantity": 0,
-    "net_revenue": 9100
+    "net_revenue": 11200
   },
   {
     "sale_id": 300,
@@ -3595,8 +3595,8 @@
     "category": "電腦周邊",
     "channel": "網路商店",
     "unit_price": 800,
-    "quantity": 6,
+    "quantity": 9,
     "returned_quantity": 0,
-    "net_revenue": 4800
+    "net_revenue": 7200
   }
 ]
